@@ -20,6 +20,12 @@
     },
     "link_url": {
       "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "size": {
+      "type": "string"
     }
   }
 }
